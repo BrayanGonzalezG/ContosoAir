@@ -4,9 +4,7 @@ trigger:
   - master
 steps:
   - task: Npm@1
-    displayName: 'Run npm install'
     inputs:
-      verbose: false
       command: install
   - script: 'npm test'
     displayName: 'Run unit tests'
