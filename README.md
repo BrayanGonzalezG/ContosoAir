@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/brayangonzalez0679/e9c19071-f4af-41d7-82a7-4f55cb416995/3a4bda25-463c-4ffa-89c7-1610b8a150bd/_apis/work/boardbadge/6efb8ae9-9ed3-437e-8777-b290e350a556)](https://dev.azure.com/brayangonzalez0679/e9c19071-f4af-41d7-82a7-4f55cb416995/_boards/board/t/3a4bda25-463c-4ffa-89c7-1610b8a150bd/Microsoft.RequirementCategory)
 
 [![Build Status](https://dev.azure.com/brayangonzalez0679/brayangonzalez/_apis/build/status/BrayanGonzalezG.ContosoAir?branchName=master)](https://dev.azure.com/brayangonzalez0679/brayangonzalez/_build/latest?definitionId=45&branchName=master)
 
